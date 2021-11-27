@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sunrise Chess: The King</title>
+  <style>
+    h1 {color:#FC8D00;}
+    h2 {color:##FC8C00;}
+    p {color:#FCAC00;}
+    body {
+       background-color: #FFEE2B;
+    }
+  </style>
+</head>
+<body>
+  <h1>The King</h1>
+  <h2>A Sunrise Chess Production</h2>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <p>The king is one of the chess pieces. It can move one square in one direction. The king like all other chess pieces can not move on</p>
+  <br>
+  <p>to a square occupied by a piece of its own color. Although weak, the king is the most important pieces because if it is attacked </p>
+  <br>
+  <p>and can not move anywhere without being attacked, then the king that can't move lost the game. </p>
+  <br>
+  <p>has no need to just be imagined. This game already exists, is easy to learn, and is played by millions around the world. This game</p>
+  <br>
+  <p>is chess. </p>
+  <a href="https://www.youtube.com/channel/UC3BiLHqVu4qQA3sIyHTJ0vQm" target="_blank" >Visit My Youtube To Learn Chess!</a>
+  <img src="https://yt3.ggpht.com/ytc/AKedOLTYUUPATZsx1NzLaLcDKx7EKOJbYfqCcnz6i0QD=s900-c-k-c0x00ffffff-no-rj" alt="Chess is Cool" width="200" height="200">
+</body>
+</html>
